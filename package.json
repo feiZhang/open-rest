@@ -24,20 +24,20 @@
   },
   "homepage": "https://github.com/open-node/open-rest",
   "dependencies": {
-    "lodash": "^4.15.0",
-    "open-router": "1.0.1",
-    "restify": "4.3.2"
+    "lodash": "^4.17.5",
+    "open-router": "^1.0.1",
+    "restify": "^6.3.4"
   },
   "devDependencies": {
     "axios": "^0.14.0",
     "babel-eslint": "^7.1.1",
+    "codecov": "^1.0.1",
     "eslint": "^3.10.0",
     "eslint-config-airbnb": "^10.0.1",
     "eslint-plugin-import": "^1.16.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.4.1",
     "mocha": "^3.0.2",
-    "codecov": "^1.0.1",
     "nyc": "^11.3.0"
   }
 }
